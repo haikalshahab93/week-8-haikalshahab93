@@ -30,7 +30,7 @@ The API provides the following endpoints for interacting with transactions and a
 - `DELETE`: Used for deleting transactions or assets.
 
 ## Deployment
-![DEPLOYMENT](https://github.com/RevoU-FSSE-2/week-8-haikalshahab93/tree/main/image/1.png)
+![DEPLOYMENT](https://github.com/haikalshahab93/week-8-haikalshahab93/blob/main/image/1.png)
 
 This application  deployed using [Muhammad Haikal Shahab](  
 [https://dull-jade-tam.cyclic.app](https://dull-jade-tam.cyclic.app/)) :
@@ -43,4 +43,4 @@ This application  deployed using [Muhammad Haikal Shahab](
 ## TESTING
 
 This application can be tested using POSTMAN
-![POSTMAN](https://github.com/RevoU-FSSE-2/week-8-haikalshahab93/tree/main/image/2.jpeg)
+![POSTMAN](https://github.com/haikalshahab93/week-8-haikalshahab93/blob/main/image/2.jpeg)
