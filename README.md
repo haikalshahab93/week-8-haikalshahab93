@@ -16,10 +16,10 @@ The API provides the following endpoints for interacting with transactions and a
 
 - `GET /api/v1/data/financialgetdata`: Retrieve a list of all transactions.
 - `GET /api/v1/data/financialgetdata/{id}`: Retrieve details of a specific transaction.
--  `POST /api/v1/data/financialgetdata`: Create a new transaction.
-- `PUT /api/v1/data/financialgetdata/{id}`: Update details of a specific transaction.
-- `PATCH /api/v1/data/financialgetdata/{id}`: Partially update details of a specific transaction.
-- `DELETE /api/v1/data/financialgetdata/{id}`: Delete a specific transaction.
+-  `POST /api/v1/data/financialpostdata`: Create a new transaction.
+- `PUT /api/v1/data/financialputdata/{id}`: Update details of a specific transaction.
+- `PATCH /api/v1/data/financialpatchdata/{id}`: Partially update details of a specific transaction.
+- `DELETE /api/v1/data/financialdeletedata/{id}`: Delete a specific transaction.
 
 ## HTTP Methods
 
